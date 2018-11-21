@@ -1,2 +1,2 @@
-# radnom-test
+# random-test
 just a random test
